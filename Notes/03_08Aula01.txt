@@ -1,0 +1,21 @@
+POO
+  - Antônio Rodrigues Carvalho Neto
+  - antonio.carvalho@fatec.sp.gov.br
+  
+  Ao enviar emails favor colocar cabeçalho: FATEC-<TURMA>-<RA>-<NOME>
+
+  Ementa
+    
+    - Variáveis e Declarações;
+    - Introdução e Orientação a Objetos em Java; 
+    - Vetores e Matrizes;
+    - Interface Gráfica;
+    - Banco de Dados;
+    - Acesso a Arquivos;
+    - Conexões em Rede;
+    
+  Critérios de Avaliação
+     
+    * Avaliação 1 - (Exercícios 20% - Vídeo 80%);
+    * Avaliação 2 - (Exercícios 20% - Trabalho 80%);
+    * Avaliação 3 - (Prova);
