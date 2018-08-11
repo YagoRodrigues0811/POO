@@ -1,0 +1,22 @@
+public class Aluno{
+   String ra; // Variável de instância
+   String nome;
+
+   public void fazMatricula(){
+      int i = 0; // Variáveis locais
+      sysout("Aluno %s foi matriculado c/ Ra %s",nome,ra);
+   }
+
+   public static void main(String[] args){
+        Aluno a1 = new Aluno();
+        int j = 10;
+        Aluno a2 = new Aluno();
+        a2.ra = "123";
+        a2.nome = "Toninho";
+   }
+}
+
+//A memória é stack e heap
+//stack: variáveis locais divididas dentro dos frames dos métodos, é pequena
+//heap: instâncias e suas variáveis, é grande
+
